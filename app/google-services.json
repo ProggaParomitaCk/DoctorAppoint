@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474103964692",
+    "project_id": "doctorappoinment-1fe48",
+    "storage_bucket": "doctorappoinment-1fe48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474103964692:android:5c3b73add52858cb2af301",
+        "android_client_info": {
+          "package_name": "com.example.doctorappoinment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474103964692-ln5dafgr35d5qmnv0f5k9smjtfkro4ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2S4I3t3kwwMU-CadzqF8j8mGaEudAGCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474103964692-ln5dafgr35d5qmnv0f5k9smjtfkro4ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
